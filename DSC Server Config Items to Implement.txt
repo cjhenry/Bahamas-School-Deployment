@@ -1,0 +1,15 @@
+Add conner.henry to local admin account
+Modify the conner.henry profile
+	Add to task bar and start menu
+	CMD and ISE
+	Computer Management
+	Services
+	Event Viewer
+	Firewall
+	IE
+	Chrome
+Install Chrome
+Install Notepad++
+Install Visual Studio Code
+Install GitHub Desktop
+
